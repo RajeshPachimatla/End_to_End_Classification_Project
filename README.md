@@ -10,3 +10,4 @@ After the model is build, it was exported to a pickle file and used a python fla
 This python flask server will expose http ednpoints for various requests and ui returns in html/css/javascript
 Following the screen shot of the webpage which I run on the localserver
 
+![CelebrityClassification_deployed](https://github.com/RajeshPachimatla/End_to_End_Classification_Project/assets/138550334/c8839fed-6639-4ce0-9789-dca37dc9baca)
